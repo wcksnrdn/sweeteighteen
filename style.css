@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(87, 7, 44);
+
+  }
+  
+  h1 {
+    color: rgba(240, 238, 238, 0.993);
+    font-family: monospace;
+    text-align: center;
+    font-size: 35px;
+  }
+  
+  p1 {
+    color: rgb(250, 251, 252);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 18px;
+  }
+  
+.post-image {
+    width: 2;
+    border-color: rgb(9, 95, 95);
+    border-radius: 150px;
+    margin-bottom: 3mm;
+    
+}
+.post-image2 {
+    border-radius: 150px;
+    
+}
+.post-image3 {
+    border-radius: 150px;
+}
+.post-image4 {
+    border-radius: 150px;
+}
